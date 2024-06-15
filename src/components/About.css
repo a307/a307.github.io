@@ -1,0 +1,58 @@
+.about {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.about h2 {
+  font-size: 2rem;
+}
+
+.content-container {
+  display: flex;
+  align-items: flex-start; /* Align items at the start of the flex container */
+}
+
+.profile-pic {
+  width: 300px; /* Adjust size as needed */
+  height: 400px; /* Adjust size as needed */
+  border-radius: 10px; /* Make the picture rectangular with slightly rounded corners */
+  margin-right: 20px; /* Space between image and text */
+}
+
+.info-container {
+  max-width: 600px; /* Limit the width of the text container */
+  text-align: left; /* Left align the text */
+  align-self: flex-start; /* Align container to the start of the flex container */
+}
+
+.about-text {
+  font-size: 1.5rem; /* Adjust font size as needed */
+  margin-bottom: 20px;
+  line-height: 1.6; /* Improve readability */
+}
+
+.button-container {
+  margin-top: 20px; /* Adjust spacing between text and button */
+}
+
+.scroll-button {
+  font-size: 1.2rem; /* Adjust font size */
+  padding: 15px 30px; /* Increase button padding */
+  cursor: pointer;
+  background-color: #000000;
+  color: #ffffff;
+  border: 2px solid #ffffff;
+  border-radius: 0px;
+  transition: background-color 0.3s ease, color 0.3s ease; /* Add transition for color change */
+}
+
+.scroll-button:hover {
+  background-color: #ffffff;
+  color: #000000;
+  border: 2px solid #000000;
+}
