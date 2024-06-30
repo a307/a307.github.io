@@ -1,3 +1,33 @@
+#My Portfolio Website
+
+Successfully launched June.29th 2024
+
+Created in VS Code
+
+to run ensure proper navigation in terminal (\my-portfolio\portfolio)
+
+to test locally use npm start
+
+to deploy new version with changes use:
+
+npm run build
+
+npm run deploy
+
+- sean burke
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
