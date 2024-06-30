@@ -14,6 +14,16 @@ npm run build
 
 npm run deploy
 
+to commit on vs code terminal:
+
+git status
+
+git add index.html
+
+git commit -m "Updated index.html with new content"
+
+git push
+
 - thanks, sean burke
 
 
