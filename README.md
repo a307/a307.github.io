@@ -14,7 +14,7 @@ npm run build
 
 npm run deploy
 
-- sean burke
+- thanks, sean burke
 
 
 
