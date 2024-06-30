@@ -1,8 +1,8 @@
-#My Portfolio Website
+My Portfolio Website
 
 Successfully launched June.29th 2024
 
-Created in VS Code
+Created in VS Code using React
 
 to run ensure proper navigation in terminal (\my-portfolio\portfolio)
 
